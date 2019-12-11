@@ -3,7 +3,7 @@ package gtworkspace
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/dougEfresh/gtoggl-api/gthttp"
+	"github.com/kruc/gtoggl-api/gthttp"
 )
 
 type Workspace struct {
